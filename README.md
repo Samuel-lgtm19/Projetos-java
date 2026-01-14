@@ -9,4 +9,4 @@
 ## Como executar
 1. clone o repositório
 2. ```bash
-  git clone https://github.com/samuel-lgtm19/projetos-java/new/main
+  git clone https://github.com/samuel-lgtm19/projetos-java.git
